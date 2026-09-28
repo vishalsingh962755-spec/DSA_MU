@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
