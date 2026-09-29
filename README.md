@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0724-find-pivot-index](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1672-richest-customer-wealth) |
@@ -39,4 +40,13 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
