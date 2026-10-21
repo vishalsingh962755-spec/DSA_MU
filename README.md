@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -55,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 ## Math
@@ -107,4 +110,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
