@@ -63,6 +63,7 @@
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
