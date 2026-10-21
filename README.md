@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1920-build-array-from-permutation) |
@@ -64,6 +65,7 @@
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
