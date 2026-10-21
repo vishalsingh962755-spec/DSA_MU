@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
