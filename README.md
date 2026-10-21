@@ -62,6 +62,7 @@
 | [0009-palindrome-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
