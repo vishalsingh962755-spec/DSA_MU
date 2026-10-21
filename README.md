@@ -40,11 +40,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
