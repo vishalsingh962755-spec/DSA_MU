@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/2413-smallest-even-multiple) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
