@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -45,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +73,7 @@
 | [0009-palindrome-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
@@ -96,6 +99,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
