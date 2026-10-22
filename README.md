@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
