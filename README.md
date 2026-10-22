@@ -71,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
