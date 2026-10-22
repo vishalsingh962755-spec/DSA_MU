@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -87,6 +88,7 @@
 | [0069-sqrtx](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/vishalsingh962755-spec/DSA_MU/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
